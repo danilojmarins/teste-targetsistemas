@@ -1,6 +1,6 @@
 # Teste - Vaga de Estágio - Target Sistemas
 
-Nesse repositório encontram-se a resolução dos exercícios propostos no Teste para a vaga de Estágio em Análise e Desenvolvimento de Sistemas.
+Nesse repositório encontram-se as resoluções dos exercícios propostos no Teste para a vaga de Estágio em Análise e Desenvolvimento de Sistemas.
 
 ## Exercícios
 
